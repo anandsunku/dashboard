@@ -3,7 +3,7 @@
 		$(selector).on('click', function(){
 		if ($(".sidebar li").hasClass("display_box_hover")) {
 				console.log("dsfds");
-				$(".sidebar li").removeClass('.display_box_hover');
+				$(".sidebar li").removeClass('display_box_hover');
 		}
 		$(selector).removeClass('active');			
 		$(this).addClass('active');
