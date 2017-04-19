@@ -123,9 +123,10 @@ margin:0px;
 	padding:20px 10px 10px 10px;
 }
 
-.section2 .col-lg-9  #accordion .panel-default
-{
-	border:none;
+.panel-default>.panel-heading {
+    color: #333;
+    background-color: rgba(85, 85, 85, 0.21);
+    border-color: #ddd;
 }
 
 /* Media Query */
