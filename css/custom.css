@@ -102,6 +102,8 @@ margin:0px;
     height: 500px;
 	padding: 10px;
 }
+
+/* section1 */
 .rightsection .col-lg-8
 {
 	    padding: 0;
@@ -114,6 +116,13 @@ margin:0px;
 {
 	margin-top:5px;
 }
+
+/* section2 */
+.section2
+{
+	padding:20px 10px 10px 10px;
+}
+
 /* Media Query */
 
 @media only screen and (max-width: 767px) {
