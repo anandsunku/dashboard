@@ -96,6 +96,13 @@ margin:0px;
 	padding: 0 5px;
 }
 
+/* Content Section */
+/* .rightsection */
+/* { */
+	/* overflow-y: scroll; */
+    /* height: 500px; */
+/* } */
+
 /* Media Query */
 
 @media only screen and (max-width: 767px) {
