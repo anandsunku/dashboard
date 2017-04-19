@@ -42,5 +42,11 @@ margin-bottom: 0px;
 	    margin: 0px;
     vertical-align: middle;
 }
-
-	
+.navbar3
+{
+	    
+    border-bottom: 1px solid #ccc;
+}
+.navbar3 ul{
+margin:0px;	
+}
