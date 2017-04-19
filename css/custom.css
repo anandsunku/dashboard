@@ -76,6 +76,10 @@ margin:0px;
 	    padding: 6px 2px;
     border-bottom: 1px solid #999;
 }
+.sidebar li.active {
+    background:#dbdbdb;
+	
+}
 .sidebar li p{
 	
 	margin:0px;
