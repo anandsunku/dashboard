@@ -78,8 +78,11 @@ margin:0px;
 }
 .sidebar li.active {
     background:#dbdbdb;
-	
 }
+.display_box_hover{
+        background:#dbdbdb;
+}
+
 .sidebar li p{
 	
 	margin:0px;
