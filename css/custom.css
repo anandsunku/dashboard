@@ -2,6 +2,7 @@
 .nav-bar
 {
 background: #008ad1;
+margin-bottom: 0px;
 }
 
 .navbar-default .navbar-brand {
@@ -11,3 +12,35 @@ background: #008ad1;
 .nav-bar .navbar-nav>li>a {
     color: #fff;
 }
+
+/* navbar 2 */
+.row
+{
+	margin:0px;
+}
+.navbarhead
+{
+	font-size: 25px;
+    margin-right: 10px;
+    font-weight: 600;
+	vertical-align: middle;
+}
+.savaasbtn
+{
+	background: none;
+    color: #000;
+    border: 1px solid rgba(0,0,0,.25);
+	margin-right: 10px;
+}
+.navbar2blg
+{
+	    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+.navbar2right
+{
+	    margin: 0px;
+    vertical-align: middle;
+}
+
+	
