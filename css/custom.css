@@ -123,6 +123,11 @@ margin:0px;
 	padding:20px 10px 10px 10px;
 }
 
+.section2 .col-lg-9  #accordion .panel-default
+{
+	border:none;
+}
+
 /* Media Query */
 
 @media only screen and (max-width: 767px) {
