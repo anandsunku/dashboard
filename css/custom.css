@@ -132,7 +132,10 @@ margin:0px;
     background-color: rgba(85, 85, 85, 0.21);
     border-color: #ddd;
 }
-
+.tabpanel
+{
+	padding:10px;
+}
 /* Media Query */
 
 @media only screen and (max-width: 767px) {
