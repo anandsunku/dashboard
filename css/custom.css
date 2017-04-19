@@ -47,6 +47,34 @@ margin-bottom: 0px;
 	    
     border-bottom: 1px solid #ccc;
 }
-.navbar3 ul{
+.navbar3 ul
+{
 margin:0px;	
+}
+
+.navbar3div1
+{
+	margin-top:7px;
+}
+
+/* Media Query */
+
+@media only screen and (max-width: 767px) {
+	
+	.navbar2right
+	{
+		float:left !important;
+		margin-top: 10px;
+	}
+	.navbar3div1, .navbar3div2 .navbar-form .submitbtn
+	{
+		display:none;
+	}
+	.navbar3div2 .navbar-form
+	{
+		margin-top: 0px;
+		margin-bottom: 0px;
+	}
+	
+ 
 }
